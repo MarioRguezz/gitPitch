@@ -1,14 +1,17 @@
-# Flux
+# Actividad 2
 
-An application architecture for React
+Manual de principiante a manejo de apps en Swift 3.0
+<br>
+Un poco de entorno y configuración Linux
 
 ---
 
-### Flux Design
+### Índice
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- Herramientas
+- Configuración de entorno
+- Código de ejemplo
+- App iOS
 
 ---
 
@@ -18,89 +21,24 @@ An application architecture for React
 ---
 
 
-### Flux Design
+### Herramientas
 
-##### A <span style="color:#47BA04">Git</span>Pitch Feature Tour
+#####  <span style="color:#47BA04">Git</span>Hub
+#####  <span style="color:#47BA04">Git</span>Pitch
+#####  <span style="color:#47BA04">Git</span>Book
 
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
-<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Code-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
-
-
----
-
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
-
-
+- Vagrant
+- Playground
+- Xcode
+- Simulador
 
 
 ---
-
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
-
-
-
-
----
-
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
-
-
-
-
----
-
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
-
-
-
-
 #HSLIDE
 
-## The Kitchen Sink
-##### A <span style="color:#47BA04">Git</span>Pitch Feature Tour
+## Ejemplo
 
-#HSLIDE
-## Slideshow Theme Switcher
-<span style="font-size:0.6em; color:gray">Available bottom-left of screen.</span> |
-<span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
-
-#HSLIDE
-
-## Tip!
-For best viewing experience press **F** key to go fullscreen.
-
-#HSLIDE
-
-
-
-
-
-## Markdown Slides
-<span style="font-size:0.6em; color:gray">Press Down key for details.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slide-Markdown" target="_blank">GitPitch Wiki</a> for details.</span>
+![Flux Explained](https://preview.ibb.co/bC9YQb/639585.jpg)
 
 
 #VSLIDE
@@ -111,3 +49,39 @@ For best viewing experience press **F** key to go fullscreen.
 <br>
 
 The same tool you use to create project **READMEs** and **Wikis** for your Git repos.
+
+
+#VSLIDE
+
+#### Use GitHub Flavored Markdown
+#### For Slide Content Creation
+
+<br>
+
+The same tool you use to create project **READMEs** and **Wikis** for your Git repos.
+
+
+#VSLIDE
+
+#### Use GitHub Flavored Markdown
+#### For Slide Content Creation
+
+<br>
+
+The same tool you use to create project **READMEs** and **Wikis** for your Git repos.
+
+
+
+
+
+---
+
+
+### App user
+
+<span style="font-size:0.6em; color:gray">Revisa el  <a href="https://github.com/gitpitch/gitpitch/wiki/Code-Slides" target="_blank">GitPitch</a> para detalles.</span>
+<br>
+<span style="font-size:0.6em; color:gray">Revisa el  <a href="https://github.com/gitpitch/gitpitch/wiki/Code-Slides" target="_blank">GitBook</a> para tutorial.</span>
+<br>
+<span style="font-size:0.6em; color:gray">Revisa el  <a href="https://github.com/gitpitch/gitpitch/wiki/Code-Slides" target="_blank">GitHub</a> como repositorio.</span>
+<br>
