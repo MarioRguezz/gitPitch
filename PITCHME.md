@@ -1,4 +1,4 @@
-# Flux 
+# Flux
 
 An application architecture for React
 
@@ -12,4 +12,4 @@ An application architecture for React
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+![Flux Explained](https://github.com/MarioRguezz/gitPitch/blob/master/639585.jpg)
