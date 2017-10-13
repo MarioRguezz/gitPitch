@@ -26,7 +26,7 @@ An application architecture for React
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
 - Views: Render Data via React
-
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Code-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
 
 
 ---
@@ -93,6 +93,10 @@ An application architecture for React
 For best viewing experience press **F** key to go fullscreen.
 
 #HSLIDE
+
+
+
+
 
 ## Markdown Slides
 <span style="font-size:0.6em; color:gray">Press Down key for details.</span> |
