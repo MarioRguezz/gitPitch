@@ -23,10 +23,9 @@ Un poco de entorno y configuración Linux
 
 ### Herramientas
 
-#####  <span style="color:#47BA04">Git</span>Hub
-#####  <span style="color:#47BA04">Git</span>Pitch
-#####  <span style="color:#47BA04">Git</span>Book
-
+<span style="color:#47BA04">Git</span>Hub
+<span style="color:#47BA04">Git</span>Pitch
+<span style="color:#47BA04">Git</span>Book
 - Vagrant
 - Playground
 - Xcode
@@ -34,8 +33,6 @@ Un poco de entorno y configuración Linux
 
 
 ---
-#HSLIDE
-
 ## Ejemplo
 
 ![Flux Explained](https://preview.ibb.co/bC9YQb/639585.jpg)
