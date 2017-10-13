@@ -12,4 +12,4 @@ An application architecture for React
 
 ---
 
-![Flux Explained](https://github.com/MarioRguezz/gitPitch/blob/master/639585.jpg)
+![Flux Explained](https://preview.ibb.co/bC9YQb/639585.jpg)
