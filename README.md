@@ -1,6 +1,3 @@
-# gitPitch
-
-
 ### Herramientas
 <span style="color:#47BA04">Git</span>Hub
 <span style="color:#47BA04">Git</span>Pitch
