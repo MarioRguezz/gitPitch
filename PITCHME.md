@@ -62,5 +62,5 @@ La lógica sigue siendo la  **misma**.
 <br>
 <span style="font-size:0.6em; color:gray">Revisa el  <a href="https://mariorguezz.gitbooks.io/swift-tutorial-3-0-linux-a-basico-a-applewatch/content/" target="_blank">GitBook</a> para tutorial.</span>
 <br>
-<span style="font-size:0.6em; color:gray">Revisa el  <a href="https://github.com/gitpitch/gitpitch/wiki/Code-Slides" target="_blank">GitHub</a> como repositorio.</span>
+<span style="font-size:0.6em; color:gray">Revisa el  <a href="https://github.com/MarioRguezz/gitPitch" target="_blank">GitHub</a> como repositorio.</span>
 <br>
