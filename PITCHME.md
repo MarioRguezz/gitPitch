@@ -13,10 +13,6 @@ Un poco de entorno y configuración Linux
 - Código de ejemplo
 - App iOS
 
----
-
-![Flux Explained](https://preview.ibb.co/bC9YQb/639585.jpg)
-
 
 ---
 
@@ -35,50 +31,36 @@ Un poco de entorno y configuración Linux
 ---
 ## Ejemplo
 
-![Flux Explained](https://preview.ibb.co/bC9YQb/639585.jpg)
+![Flux Explained](https://image.ibb.co/cHVMvb/Captura_de_pantalla_2017_10_13_a_la_s_00_11_39.png)
 
 
 #VSLIDE
 
-#### Use GitHub Flavored Markdown
-#### For Slide Content Creation
+#### Al pasar este código a interfaz gráfica
+#### Se pueden observar ciertos cambios
 
 <br>
 
-The same tool you use to create project **READMEs** and **Wikis** for your Git repos.
+La lógica sigue siendo la  **misma**.
 
 
 #VSLIDE
 
-#### Use GitHub Flavored Markdown
-#### For Slide Content Creation
-
-<br>
-
-The same tool you use to create project **READMEs** and **Wikis** for your Git repos.
-
+![Flux Explained](https://image.ibb.co/kXZWvb/Captura_de_pantalla_2017_10_13_a_la_s_00_14_20.png)
 
 #VSLIDE
 
-#### Use GitHub Flavored Markdown
-#### For Slide Content Creation
 
-<br>
-
-The same tool you use to create project **READMEs** and **Wikis** for your Git repos.
-
-
-
-
+![Flux Explained](https://image.ibb.co/hOcJab/Captura_de_pantalla_2017_10_13_a_la_s_00_15_31.png)
 
 ---
 
 
 ### App user
 
-<span style="font-size:0.6em; color:gray">Revisa el  <a href="https://github.com/gitpitch/gitpitch/wiki/Code-Slides" target="_blank">GitPitch</a> para detalles.</span>
+<span style="font-size:0.6em; color:gray">Revisa el  <a href="https://github.com/MarioRguezz/gitPitch" target="_blank">GitPitch</a> para detalles.</span>
 <br>
-<span style="font-size:0.6em; color:gray">Revisa el  <a href="https://github.com/gitpitch/gitpitch/wiki/Code-Slides" target="_blank">GitBook</a> para tutorial.</span>
+<span style="font-size:0.6em; color:gray">Revisa el  <a href="https://mariorguezz.gitbooks.io/swift-tutorial-3-0-linux-a-basico-a-applewatch/content/" target="_blank">GitBook</a> para tutorial.</span>
 <br>
 <span style="font-size:0.6em; color:gray">Revisa el  <a href="https://github.com/gitpitch/gitpitch/wiki/Code-Slides" target="_blank">GitHub</a> como repositorio.</span>
 <br>
